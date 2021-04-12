@@ -38,7 +38,5 @@ http-response ^https?:\/\/mb3admin.com\/admin\/service\/registration\/validateDe
 
 
 [MITM]
-hostname = trade-acs.m.taobao.com,api.m.jd.com,weixin110.qq.com,mp.weixin.qq.com,
-hostname = api.bilibili.com
-hostname=testflight.apple.com
-hostname = mb3admin.com
+hostname = trade-acs.m.taobao.com,api.m.jd.com,weixin110.qq.com,mp.weixin.qq.com,api.bilibili.com，testflight.apple.com，mb3admin.com，
+
